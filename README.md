@@ -1,4 +1,4 @@
-### Hi there 👋, Ziad Waleed
+### Hi there 👋,I'm Ziad Waleed
 - 👀 I’m interested in web development, healthy living, gaming, and karate.
 - 🌱 I’m currently learning advanced JavaScript and responsive web design.
 - 💞️ I’m looking to collaborate on projects related to web development and healthy food marketplaces.
