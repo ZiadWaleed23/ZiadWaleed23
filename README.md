@@ -5,8 +5,7 @@
 ## 🚀 About Me 
 💻 Web Developer | 🎨 Frontend Enthusiast | 🏆 Passionate about UI/UX 
 
-I'm a passionate **Web Developer** with experience in **HTML, CSS, and JavaScript**.  
-I enjoy building modern, responsive websites and continuously improving my skills.
+Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, and JavaScript. Passionate about coding, gaming, and karate. Focused on building modern, visually appealing websites. Also dedicated to fitness, following a structured gym routine for muscle growth, strength, and endurance.
 
 ---
 
