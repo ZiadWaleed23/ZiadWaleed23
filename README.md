@@ -7,7 +7,7 @@
 
 Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, and JavaScript. Passionate about coding, gaming, and karate. Focused on building modern, visually appealing websites. Also dedicated to fitness, following a structured gym routine for muscle growth, strength, and endurance.
 
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00ff00, #ff00ff, #0000ff); margin: 20px 0;">
 
 ## 🔗 Connect with Me  
 
@@ -33,7 +33,7 @@ Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, 
 </p>
 
 
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00ff00, #ff00ff, #0000ff); margin: 20px 0;">
 
 ## 🛠 My Skills
 
@@ -43,5 +43,12 @@ Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📚 I’m currently learning:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 💡 _Always learning and building new projects!_ 🚀
