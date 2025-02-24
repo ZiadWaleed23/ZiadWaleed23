@@ -7,7 +7,7 @@
 
 Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, and JavaScript. Passionate about coding, gaming, and karate. Focused on building modern, visually appealing websites. Also dedicated to fitness, following a structured gym routine for muscle growth, strength, and endurance.
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=95px>
 
 
 ## 🔗 Connect with Me  
@@ -33,7 +33,7 @@ Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, 
   </a>
 </p>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=95px>
 
 ## 🛠 My Skills
 
