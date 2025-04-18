@@ -7,9 +7,7 @@
 
 Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, and JavaScript. Passionate about coding, gaming, and karate. Focused on building modern, visually appealing websites. Also dedicated to fitness, following a structured gym routine for muscle growth, strength, and endurance.
 
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 80% height=95px>
-
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=80% height=95px>
 
 ## 🔗 Connect with Me  
 
@@ -34,13 +32,16 @@ Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, 
   </a>
 </p>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 80% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=80% height=95px>
 
 ## 🛠 My Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -53,3 +54,4 @@ Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, 
 </p>
 
 💡 _Always learning and building new projects!_ 🚀
+
