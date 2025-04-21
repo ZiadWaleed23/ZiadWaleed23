@@ -56,4 +56,6 @@ Ziad Waleed, a 15-year-old Frontend Web Developer with experience in HTML, CSS, 
 
 💡 _Always learning and building new projects!_ 🚀
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZiadWaleed23&theme=dark)
+
 
