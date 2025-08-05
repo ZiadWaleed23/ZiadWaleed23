@@ -41,6 +41,7 @@ Ziad Waleed, a 16-year-old Frontend Web Developer with experience in HTML, CSS, 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 💡 _Always learning and building new projects!_ 🚀
