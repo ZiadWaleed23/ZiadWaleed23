@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ziadwaleed23&label=Profile%20Views&color=green&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ziadwaleed23&label=Profile%20Views&color=blue&style=flat)
 
 ## 🚀 About Me 
 💻 Web Developer | 🎨 Frontend Enthusiast | 🏆 Passionate about UI/UX 
@@ -47,7 +47,3 @@ Ziad Waleed, a 16-year-old Frontend Web Developer with experience in HTML, CSS, 
 💡 _Always learning and building new projects!_ 🚀
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZiadWaleed23&theme=dark)
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ziad-waleed-elkon" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/ziad-waleed-elkon?trk=profile-badge">Ziad Waleed</a></div>
-              
-
-
