@@ -45,3 +45,5 @@ Ziad Waleed, a 16-year-old Frontend Web Developer with experience in HTML, CSS, 
 </p>
 
 💡 _Always learning and building new projects!_ 🚀
+
+[![](https://visitcount.itsvg.in/api?id=Joe-Elkilani&icon=0&color=0)](https://visitcount.itsvg.in)
