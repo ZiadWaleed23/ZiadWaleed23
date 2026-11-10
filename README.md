@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ziadwaleed23&label=Profile%20Views&color=blue&style=flat)
+
 
 ## 🚀 About Me 
 💻 Web Developer | 🎨 Frontend Enthusiast | 🏆 Passionate about UI/UX 
